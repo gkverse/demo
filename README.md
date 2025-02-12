@@ -1,2 +1,2 @@
 # demo
-this is the demo repository. Starting with Git/Github
+this is the demo repository. Starting with Git/Github.
